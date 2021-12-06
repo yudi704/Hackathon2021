@@ -1,0 +1,9 @@
+C:\Hackathon2021\LibraryProject\LibraryProject\bin\Debug\netstandard2.0\LibraryProject.deps.json
+C:\Hackathon2021\LibraryProject\LibraryProject\bin\Debug\netstandard2.0\LibraryProject.dll
+C:\Hackathon2021\LibraryProject\LibraryProject\bin\Debug\netstandard2.0\LibraryProject.pdb
+C:\Hackathon2021\LibraryProject\LibraryProject\obj\Debug\netstandard2.0\LibraryProject.csprojAssemblyReference.cache
+C:\Hackathon2021\LibraryProject\LibraryProject\obj\Debug\netstandard2.0\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Hackathon2021\LibraryProject\LibraryProject\obj\Debug\netstandard2.0\LibraryProject.AssemblyInfoInputs.cache
+C:\Hackathon2021\LibraryProject\LibraryProject\obj\Debug\netstandard2.0\LibraryProject.AssemblyInfo.cs
+C:\Hackathon2021\LibraryProject\LibraryProject\obj\Debug\netstandard2.0\LibraryProject.dll
+C:\Hackathon2021\LibraryProject\LibraryProject\obj\Debug\netstandard2.0\LibraryProject.pdb

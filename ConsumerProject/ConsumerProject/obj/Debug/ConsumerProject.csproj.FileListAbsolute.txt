@@ -1,0 +1,9 @@
+C:\Hackathon2021\ConsumerProject\ConsumerProject\bin\Debug\ConsumerProject.exe.config
+C:\Hackathon2021\ConsumerProject\ConsumerProject\bin\Debug\ConsumerProject.exe
+C:\Hackathon2021\ConsumerProject\ConsumerProject\bin\Debug\ConsumerProject.pdb
+C:\Hackathon2021\ConsumerProject\ConsumerProject\bin\Debug\LibraryProject.dll
+C:\Hackathon2021\ConsumerProject\ConsumerProject\obj\Debug\ConsumerProject.csprojAssemblyReference.cache
+C:\Hackathon2021\ConsumerProject\ConsumerProject\obj\Debug\ConsumerProject.csproj.CoreCompileInputs.cache
+C:\Hackathon2021\ConsumerProject\ConsumerProject\obj\Debug\ConsumerProject.csproj.CopyComplete
+C:\Hackathon2021\ConsumerProject\ConsumerProject\obj\Debug\ConsumerProject.exe
+C:\Hackathon2021\ConsumerProject\ConsumerProject\obj\Debug\ConsumerProject.pdb
